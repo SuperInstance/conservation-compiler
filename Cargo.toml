@@ -1,0 +1,7 @@
+[package]
+name = "conservation-compiler"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: mini compiler that verifies energy conservation at each compilation step. Rejects transforms that violate ternary algebra invariants."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/conservation-compiler"
